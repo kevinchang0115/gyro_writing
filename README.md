@@ -26,6 +26,6 @@ Gyrometer: MPU-6050 (can also serve as an accelerometer)
 
 4. Run Arduino codes and start gyro writing.
 
-5. Use Putty to capture data received from Arudino UNO and save the log file.
+5. Use Putty to capture data received from UNO and save the log file.
 
-6. Use Matlab to process the log file and output the gyro-writing figures.
+6. Use Matlab codes to process the log file and output the gyro-writing figures.
