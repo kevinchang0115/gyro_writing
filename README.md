@@ -15,7 +15,7 @@ Matlab R2015
 ### Hardwares
 Developer board: Arduino UNO
 
-Gyrometer: MPU-6050 (can also serve as accelerometer)
+Gyrometer: MPU-6050 (can also serve as an accelerometer)
 
 ### Run
 1. Use Putty to save the log file from Arudino UNO.
