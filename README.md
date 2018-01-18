@@ -24,11 +24,11 @@ Gyrometer: MPU-6050 (can also serve as an accelerometer)
 
 3. Connect MPU-6050 "SCL", "SDA" pins to UNO analog inputs.
 
-4. Run Arduino codes and start gyro writing.
+4. Run MPU6050_DMP6.ino in Arduino IDE and start gyro writing.
 
 5. Use Putty to capture data received from UNO and save the log file.
 
-6. Use Matlab codes to process the log file and output the gyro-writing figures.
+6. Run plot.m in MATLAB to process the log file and output the gyro-writing images.
 
 ## Examples
 ### 2
