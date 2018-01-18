@@ -32,6 +32,6 @@ Gyrometer: MPU-6050 (can also serve as an accelerometer)
 
 ## Examples
 ### 2
-![alt text](http://url/to/img.png)
+![number_2](https://github.com/kevinchang0115/gyro_writing/blob/master/examples/2.jpg)
 ### triangle
-![alt text](http://url/to/img.png)
+![shape_triangle](https://github.com/kevinchang0115/gyro_writing/blob/master/examples/tri.jpg)
